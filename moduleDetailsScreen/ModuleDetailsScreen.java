@@ -17,7 +17,7 @@
  */
 package org.terasology.rendering.nui.layers.mainMenu.moduleDetailsScreen;
 
-import org.codehaus.plexus.util.StringUtils;
+import org.codehaus.plexus.util.StringUtils
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.terasology.assets.ResourceUrn;
